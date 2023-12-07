@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🌱 Assalamu'alaikum I’m @handysadikin
-- 👯 I’m looking to collaborate to share code
+- 🌱 Assalamu'alaikum I’m Handy
+- 👯 I’m looking to collaborate to share code on any projects
+- ⚡ I’m currently working with Codeigniter,Laravel,Flutter
+
 
 <!---
 - 💬 Ask me about ...

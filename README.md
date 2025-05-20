@@ -1,9 +1,3 @@
-flowchart TD
-    A[Frontend Publik] -->|Tampilkan| B[Data Portofolio]
-    C[Admin Panel] -->|Kelola| B
-    C -->|Login Via| D[Google OAuth]
-    D -->|Only| E[Satu Email yang Ditentukan]
-
 ### Hi there 👋
 
 ![Handy Sadikin](github-header-image.png)

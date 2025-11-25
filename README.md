@@ -16,7 +16,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,docker,flutter,flask,git,github,go,nextjs,python,prisma,postman,tailwind,tensorflow,ts,vite,vscode,react,vue,nuxt,tailwind,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,docker,flutter,flask,git,github,go,nextjs,python,prisma,postman,tailwind,tensorflow,ts,vite,vscode,react,vue,supabase)](https://skillicons.dev)
 
 
 
